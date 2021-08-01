@@ -19,9 +19,6 @@
             android:layout_width="381dp"
             android:layout_height="250dp"
             android:src="@drawable/guitarra"/>
-
-
-
     </LinearLayout>
 
     <LinearLayout

@@ -11,4 +11,5 @@
     <!--    My Colors-->
     <color name="brown_900">#605F5A</color>
     <color name="brown_400">#302E30</color>
+    <color name="hint">#757575</color>
 </resources>

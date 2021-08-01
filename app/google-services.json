@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793880710787",
+    "project_id": "dam6-3cb81",
+    "storage_bucket": "dam6-3cb81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793880710787:android:410022d7e41fd933d515b6",
+        "android_client_info": {
+          "package_name": "co.visionscore.dam6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793880710787-rvsvoc7jt6bsjvuf774pbfp6gbeqn2ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRyhWYllc3FMPAW145RLuvjR2y7yBptEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793880710787-rvsvoc7jt6bsjvuf774pbfp6gbeqn2ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
